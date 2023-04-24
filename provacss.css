@@ -1,0 +1,32 @@
+.titolo1  {
+ color: #acd8a7;
+ font-family: Franklin gothic;
+ text-align: center;
+}
+.testo1 {
+	color: #acd8a7;
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	float: center;
+}
+body {
+	background-color: #B47EDE;
+}
+#catto1 {
+	float: left;
+	padding-left: 30px;
+}
+
+	#catto2 {
+	float: right;
+	padding-right: 30px; }
+	
+	.facce {
+	text-align: center;
+	float: center;
+	padding-left: 50px;
+	padding-top: 175px;
+	widght: 1000px;
+	}
+	
